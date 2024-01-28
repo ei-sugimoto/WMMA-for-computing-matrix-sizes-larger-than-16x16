@@ -5,5 +5,5 @@ I have created a program that divides larger matrices into smaller sub-matrices 
 - plz Fork 🍽️ or copy main.cu 
 # Require
 - GPUs equipped with Tensor Cores, e.g)A100, H100
-#License
+# License
 MIT
